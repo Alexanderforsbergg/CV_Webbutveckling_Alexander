@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CV_Webbutveckling_Alexander/1.0.0": {
+        "runtime": {
+          "CV_Webbutveckling_Alexander.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CV_Webbutveckling_Alexander/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

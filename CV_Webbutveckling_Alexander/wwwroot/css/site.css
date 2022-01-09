@@ -1,0 +1,27 @@
+html {
+    font-size: 14px;
+    text-align: left;
+    background-image: url("business-partners-handshake-global-corporate-with-technology-concept_53876-102615");
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+#Info{
+    text-align: center;
+}
+.container {
+    max-width: 600px;
+}
